@@ -3,7 +3,7 @@
 [정리 안된 프로필]
 
 2021
-1.Google Hash Code 2021 Online Qualification Round (3,075 / 🇰🇷46	8,678,912)
+1..Google Hash Code 2021 Online Qualification Round (3,075 / 🇰🇷46	8,678,912)
 2.SUAPC 2021 Winter	7th 	
 3.Google Code Jam round3
 
